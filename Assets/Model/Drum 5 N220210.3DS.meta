@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 3373a55ae0b93c74ca8fdad8944941b1
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box19
+    100002: Box20
+    100004: Box21
+    100006: Box22
+    100008: Box23
+    100010: Box24
+    100012: Box25
+    100014: Capsule05
+    100016: ChamferBo0
+    100018: ChamferBo1
+    100020: ChamferBo2
+    100022: ChamferBox
+    100024: Cone11
+    100026: Cone12
+    100028: Cylinder10
+    100030: Cylinder14
+    100032: Cylinder15
+    100034: //RootNode
+    100036: GeoSphere0
+    100038: Group155
+    100040: Group156
+    100042: Group157
+    100044: Group158
+    100046: Group159
+    100048: Group160
+    100050: Group161
+    400000: Box19
+    400002: Box20
+    400004: Box21
+    400006: Box22
+    400008: Box23
+    400010: Box24
+    400012: Box25
+    400014: Capsule05
+    400016: ChamferBo0
+    400018: ChamferBo1
+    400020: ChamferBo2
+    400022: ChamferBox
+    400024: Cone11
+    400026: Cone12
+    400028: Cylinder10
+    400030: Cylinder14
+    400032: Cylinder15
+    400034: //RootNode
+    400036: GeoSphere0
+    400038: Group155
+    400040: Group156
+    400042: Group157
+    400044: Group158
+    400046: Group159
+    400048: Group160
+    400050: Group161
+    2100000: 06 - Default
+    2100002: chrome08
+    2100004: 07 - Default
+    2100006: chrom
+    2300000: Box19
+    2300002: Box20
+    2300004: Box21
+    2300006: Box22
+    2300008: Box23
+    2300010: Box24
+    2300012: Box25
+    2300014: Capsule05
+    2300016: ChamferBo0
+    2300018: ChamferBo1
+    2300020: ChamferBo2
+    2300022: ChamferBox
+    2300024: Cone11
+    2300026: Cone12
+    2300028: Cylinder10
+    2300030: Cylinder14
+    2300032: Cylinder15
+    2300034: GeoSphere0
+    3300000: Box19
+    3300002: Box20
+    3300004: Box21
+    3300006: Box22
+    3300008: Box23
+    3300010: Box24
+    3300012: Box25
+    3300014: Capsule05
+    3300016: ChamferBo0
+    3300018: ChamferBo1
+    3300020: ChamferBo2
+    3300022: ChamferBox
+    3300024: Cone11
+    3300026: Cone12
+    3300028: Cylinder10
+    3300030: Cylinder14
+    3300032: Cylinder15
+    3300034: GeoSphere0
+    4300000: Cylinder14
+    4300002: Cylinder15
+    4300004: Box25
+    4300006: GeoSphere0
+    4300008: Box23
+    4300010: Box24
+    4300012: ChamferBox
+    4300014: Capsule05
+    4300016: ChamferBo2
+    4300018: Cone12
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.002
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
